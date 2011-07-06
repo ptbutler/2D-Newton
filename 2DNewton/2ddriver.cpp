@@ -38,7 +38,7 @@ bool scan;
 
 void cleanup() 
 {
-	
+	// Need to make sure there are no memory leaks
 }
 
 void handleKeypress(unsigned char key, int x, int y) 
