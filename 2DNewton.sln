@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2DNewton", "2DNewton\2DNewton.vcxproj", "{E3430888-BA52-42B8-870A-E25AD4E71704}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DebugToFile|Win32 = DebugToFile|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3430888-BA52-42B8-870A-E25AD4E71704}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E3430888-BA52-42B8-870A-E25AD4E71704}.Debug|Win32.Build.0 = Debug|Win32
+		{E3430888-BA52-42B8-870A-E25AD4E71704}.DebugToFile|Win32.ActiveCfg = DebugToFile|Win32
+		{E3430888-BA52-42B8-870A-E25AD4E71704}.DebugToFile|Win32.Build.0 = DebugToFile|Win32
+		{E3430888-BA52-42B8-870A-E25AD4E71704}.Release|Win32.ActiveCfg = Release|Win32
+		{E3430888-BA52-42B8-870A-E25AD4E71704}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
